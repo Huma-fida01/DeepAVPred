@@ -4,9 +4,9 @@
 
 The implementation follows the methodology and parameter information available in:
 
-- `ijms-4553359.docx`
-- `ijms-4553359-supplementary.docx`
-- Surviving prediction, metric, and plotting artifacts in `HUMA_DeevAVPred_2026/`
+- the manuscript
+- the supplementary material
+- Surviving prediction, metric, and plotting artifacts in the original project files
 
 Where the documents do not specify a software-level choice, the corresponding setting is documented as an implementation choice. The source documents and surviving project materials are maintained separately and are not modified by this package.
 

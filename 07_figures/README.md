@@ -1,6 +1,6 @@
 # Surviving ROC and Precision-Recall Figures
 
-This directory preserves four figure files copied unchanged from the original project materials in `HUMA_DeevAVPred_2026/DeepAVP_ROC_PR/`, together with the surviving combined-figure notebook `AUC_ROC UPD(1).ipynb`. They compare the Deep BiGRU classifier using CPSR, ExPseAAC, RECM, and RECM-DWT feature representations.
+This directory preserves four figure files taken from the original project materials, together with the surviving combined-figure notebook `AUC_ROC UPD(1).ipynb`. They compare the Deep BiGRU classifier using CPSR, ExPseAAC, RECM, and RECM-DWT feature representations.
 
 | File | Analysis | Evaluation data | Values displayed | Original plotting evidence | Manuscript relationship |
 |---|---|---|---|---|---|

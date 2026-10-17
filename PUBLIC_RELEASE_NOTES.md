@@ -13,4 +13,4 @@ This repository is a **documented, manuscript-based reconstruction and partial i
 - CSV inputs required by the figure notebook.
 - AVPpred benchmark FASTA files (redistribution rights not confirmed).
 
-The available code **does not independently reproduce the manuscript's reported performance** from raw sequences. Users must provide legitimate 1040-dimensional feature matrices for training. No public software license is granted in this package pending confirmation of contributor and institutional rights. Please obtain author approval before publication.
+The available code **does not independently reproduce the manuscript's reported performance** from raw sequences. Users must provide legitimate 1040-dimensional feature matrices for training. The corresponding author has confirmed that Professor Lin authorized public release of this code package. No explicit open-source license is included; public availability does not itself grant permission for reuse or redistribution beyond applicable law.
